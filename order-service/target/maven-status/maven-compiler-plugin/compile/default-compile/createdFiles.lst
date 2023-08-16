@@ -1,0 +1,12 @@
+com\myproject\orderservice\service\OrderService.class
+com\myproject\orderservice\controller\OrderController.class
+com\myproject\orderservice\dto\InventryResponce.class
+com\myproject\orderservice\dto\OrederRequest.class
+com\myproject\orderservice\OrderServiceApplication.class
+com\myproject\orderservice\model\Order.class
+com\myproject\orderservice\repository\OrderRepository.class
+com\myproject\orderservice\model\OrderLineItems.class
+com\myproject\orderservice\config\WebClientConfig.class
+com\myproject\orderservice\event\OrderPlaceEvent.class
+com\myproject\orderservice\dto\InventryResponce$InventryResponceBuilder.class
+com\myproject\orderservice\dto\OrderLineItemsDto.class
